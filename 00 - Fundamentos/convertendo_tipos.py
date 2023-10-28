@@ -1,5 +1,6 @@
 ## para fazer a conversão de um tipo para outro é só usar os construtoroes ##
 ## lembre-se, existem tipos que não podemos converter ## 
+
 # convertento float para int 
 print(int(1.97348728))
 # convertendo string pra int
