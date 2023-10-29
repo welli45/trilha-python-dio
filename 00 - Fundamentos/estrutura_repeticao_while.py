@@ -1,3 +1,4 @@
+# estrutura de repetição wile
 opcao = -1
 
 while opcao != 0:

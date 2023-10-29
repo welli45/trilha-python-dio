@@ -1,4 +1,5 @@
-while True:
+# estrutura de repetição break 
+while True: # loop infinito 
     numero = int(input("Informe um número: "))
 
     if numero == 10:
