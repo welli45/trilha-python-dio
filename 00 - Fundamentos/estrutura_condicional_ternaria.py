@@ -1,5 +1,6 @@
+# estrutura condicional ternária
 saldo = 2000
-saque = 2500
+saque = 20000
 
 status = "Sucesso" if saldo >= saque else "Falha"
 

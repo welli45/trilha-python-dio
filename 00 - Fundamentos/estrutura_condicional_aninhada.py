@@ -1,3 +1,4 @@
+# estrutura condicional aninhada
 conta_normal = False
 conta_universitaria = False
 conta_especial = True
@@ -7,7 +8,7 @@ saque = 1500
 cheque_especial = 450
 
 if conta_normal:
-
+    
     if saldo >= saque:
         print("Saque realizado com sucesso!")
     elif saque <= (saldo + cheque_especial):

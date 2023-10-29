@@ -1,3 +1,4 @@
+# identação blocos
 def sacar(valor):
     saldo = 500
 
@@ -13,4 +14,4 @@ def depositar(valor):
     saldo += valor
 
 
-sacar(1000)
+sacar(76)

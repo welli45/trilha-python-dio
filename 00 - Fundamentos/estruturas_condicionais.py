@@ -1,3 +1,4 @@
+# Estruturas condicionais
 MAIOR_IDADE = 18
 IDADE_ESPECIAL = 17
 
