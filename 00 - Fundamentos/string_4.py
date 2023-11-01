@@ -1,5 +1,6 @@
+# string de multiplas linhas/ tripla
 nome = "Guilherme"
-
+# as tres aspas preserva a formatação da string.
 mensagem = f"""
    Olá meu nome é {nome},
  Eu estou aprendendo Python.
